@@ -4,8 +4,8 @@ It has a prize pool and list of people who can participate in the pool as player
 
 ## Getting Started
 ```
-> git clone 
-> cd https://github.com/assohail/lottery-react.git
+> git clone https://github.com/assohail/lottery-react.git
+> cd lottery-react
 > npm install 
 > npm start
 ```
