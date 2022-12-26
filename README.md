@@ -46,3 +46,6 @@ You may also see any lint errors in the console.
 * web3 is always injected to every page of the browser by MetaMask
 * When using MetaMask provider, we dont need to provide from address in the call(), it uses default address set already in the MetaMask 
 
+##
+install gh-pages
+Add a homepage property in this format*: https://{username}.github.io/{repo-name}
